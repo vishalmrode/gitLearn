@@ -1,0 +1,20 @@
+git init
+git status
+
+git add <file name>
+git add . (stage all changes)
+
+git commit -m "file created in the folder"
+
+git log
+
+git reset <commit id>
+
+git restore <file name> 
+
+git remote add origin https://github.com/vishalmrode/gitLearn.git
+
+git remote -v
+
+git push origin master
+
